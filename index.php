@@ -19,3 +19,5 @@ var_dump(AGE);
 var_dump(HEIGHT);
 var_dump(NAME);
 var_dump(IS_STUDENT);
+
+?>
